@@ -1,0 +1,18 @@
+git config --global user.name "Ghulam-Qadir"
+git config --global user.email qadirr99@gmail.com
+git remote add origin https://github.com/Ghulam-Qadir/maahi.git
+git remote show origin
+git clone <url>
+git add .
+git commit -m "Commit message"
+git checkout main
+git pull               # to update the state to the latest remote master state
+git merge develop      # to bring changes to local master from your develop branch
+git push origin master # push current HEAD to remote master branch
+
+
+private repository
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+Username for 'https://github.com' : username
+Password for 'https://github.com' : give your personal access token here
+
