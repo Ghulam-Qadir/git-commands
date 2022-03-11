@@ -1,5 +1,5 @@
-git config --global user.name "git login name"
-git config --global user.email git login email
+git config user.name "your username"
+git config user.password "your password"
 git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 git remote show origin
 git clone <url>
