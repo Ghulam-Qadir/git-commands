@@ -1,6 +1,6 @@
-git config --global user.name "Ghulam-Qadir"
-git config --global user.email qadirr99@gmail.com
-git remote add origin https://github.com/Ghulam-Qadir/maahi.git
+git config --global user.name "git login name"
+git config --global user.email git login email
+git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 git remote show origin
 git clone <url>
 git add .
