@@ -14,5 +14,5 @@ git push origin master # push current HEAD to remote master branch
 private repository
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 Username for 'https://github.com' : username
-Password for 'https://github.com' : give your personal access token here
+Password for 'https://github.com' : give your personal access token here yes
 
